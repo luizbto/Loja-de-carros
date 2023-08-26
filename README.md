@@ -1,2 +1,2 @@
-# Loja-de-carros
-projeto para venda de veiculos.
+# Projetos em Python  
+Aqui encontram-se projetos desenvolvidos em python.
